@@ -1,1 +1,1 @@
-# DC-GAN-implementation
+# DC-GAN-tensorflow-implementation
